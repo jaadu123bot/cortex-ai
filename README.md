@@ -151,7 +151,7 @@ It can be used for tasks such as:
 
 The application integrates a search tool through LangChain/Tavily.
 
-The search agent can provide external information to AI workflows instead of relying exclusively on the model's internal knowledge.
+The search agent can provide external information to AI workflows instead of relying exclusively on the model's internal knowledge .
 
 ---
 
